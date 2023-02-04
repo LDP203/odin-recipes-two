@@ -1,0 +1,22 @@
+body {
+    background-color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Recipe-title {
+color:black;
+text-align: center;
+}
+
+.Recipe-class {
+    color: white;
+}
+
+#cookies {
+    height: 200px;
+    width: 200px;
+}
+
+.p {
+    text-align:center;
+}
