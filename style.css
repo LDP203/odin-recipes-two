@@ -13,10 +13,26 @@ text-align: center;
 }
 
 #cookies {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: autopx;
+    text-align: center;
 }
 
-.p {
-    text-align:center;
+#meat-sauce {
+    height: 300px;
+    width: autopx;
+}
+
+#soup {
+    height: 300px;
+    width: auto;
+}
+
+.main {
+    text-align: center;
+    font-size: 50px;
+}
+
+.subhead.para {
+    text-align: center;
 }
